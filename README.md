@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: websites and hosting services
 - 🌱 I’m currently learning: Mongo and react.
 - 🤔 I’m looking for help with: e v e r y t h i n g 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-tedde-4a132823b/">Github</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-tedde-4a132823b/">Linkedin</a>
 - ⚡ Fun fact: I don't like to take myself seriously!
 
 
