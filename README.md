@@ -1,8 +1,4 @@
-<style>
-#background{
-background-color:black}
-</style>
-<div id="background">
+
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
@@ -29,4 +25,3 @@ background-color:black}
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=underscore2&show_icons=true&locale=en" alt="underscore2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=underscore2&" alt="underscore2" /></p>
-</div>
